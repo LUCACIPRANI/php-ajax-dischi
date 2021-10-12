@@ -16,7 +16,7 @@ header {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 10px;
+  padding: 20px 40px;
 }
 header img {
   object-fit: contain;
@@ -42,19 +42,17 @@ option:hover {
 
 /* main */
 main {
-  padding-top: 105px;
+  padding-top: 50px;
   background: #2d3b46;
 }
 .main-container {
-  height: 80vh;
+  height: 86.7vh;
   background: #2d3b46;
-}
-.container {
-  border: 1px solid green;
 }
 .card {
   width: 200px;
-  margin: 10px;
+  float: left;
+  margin: 20px 27px;
   display: flex;
   flex-direction: row;
   justify-content: center;
